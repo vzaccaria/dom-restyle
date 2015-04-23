@@ -1,0 +1,33 @@
+{
+  "name": "dom-restyle",
+  "version": "0.0.1",
+  "description": "Easily re-style parts of a webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vzaccaria/dom-restyle.git"
+  },
+  "author": "Vittorio Zaccaria",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/vzaccaria/dom-restyle/issues"
+  },
+  "homepage": "https://github.com/vzaccaria/dom-restyle",
+  "dependencies": {
+    "bluebird": "^2.9.14",
+    "debug": "^2.1.3"
+  },
+  "devDependencies": {
+    "babel": "^4.7.16",
+    "diy-build": "^1.0.8",
+    "xyz": "*",
+    "verb": "*",
+    "verb-cli": "*",
+    "mocha": "*",
+    "chai": "*",
+    "chai-as-promised": "*"
+  }
+}
