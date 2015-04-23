@@ -1,4 +1,7 @@
 {
+  "globals": {
+    "document": true
+  },
   "env": {
     "es6": true,
     "node": true,
@@ -9,6 +12,7 @@
     "no-extra-semi": false,
     "semi": "never",
     "eol-last": false,
-    "no-shadow": false
+    "no-shadow": false,
+    "strict": false
   }
 }
